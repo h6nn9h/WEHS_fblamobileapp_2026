@@ -1,2 +1,2 @@
 # FlamesFBLA: Williamsville East Flames' Preimer FBLA Member App
-## Keep track of 
+## Keep track of your events!
